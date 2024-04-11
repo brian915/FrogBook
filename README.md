@@ -1,2 +1,3 @@
 # FrogBook
-exercises from Low-Code AI
+Exercises from O'Reilly's "Low-Code AI".
+
